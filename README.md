@@ -6,20 +6,23 @@ Hi Guys, My name is Dabiel and I'm developer Java, React and other things... kkk
 </h3>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="[https://www.youtube.com/c/DevProTips](https://www.youtube.com/user/dandantin/videos)"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
-**danielPaulinoMesquita/danielPaulinoMesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📘 My top open source projects
+### Attention: I am building this section in mmy profile yet.
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="[https://github.com/DenverCoder1/github-readme-streak-stats](https://github.com/danielPaulinoMesquita/SistemaAcademia)"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="SistemaAcademia"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielPaulinoMesquita&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
