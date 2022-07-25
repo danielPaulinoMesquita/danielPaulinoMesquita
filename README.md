@@ -1,6 +1,6 @@
 <h3 align="center">
 
-Hi Guys, My name is Dabiel and I'm developer Java, React and other things... kkkks 👋
+Hi Guys, My name is Daniel and I'm developer Java, React and other things... kkkks 👋
 
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
