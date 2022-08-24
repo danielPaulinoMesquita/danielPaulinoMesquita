@@ -8,15 +8,9 @@ Hi Guys, My name is Daniel and I'm developer Java, React and other things... kkk
 <p align="center">
   <a href="[https://www.youtube.com/c/DevProTips](https://www.youtube.com/user/dandantin/videos)"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielPaulinoMesquita&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on a project of ene solutions
@@ -33,10 +27,10 @@ Hi Guys, My name is Daniel and I'm developer Java, React and other things... kkk
 ### 👨‍💻 Programming and markup languages
 
 <p>
+   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
@@ -48,6 +42,7 @@ Hi Guys, My name is Daniel and I'm developer Java, React and other things... kkk
 ### 🧰 Frameworks and libraries
 
 <p>
+ <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
@@ -55,8 +50,7 @@ Hi Guys, My name is Daniel and I'm developer Java, React and other things... kkk
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
     <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+   
 </p>
 
 ### 🗄️ Databases and cloud hosting
